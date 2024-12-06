@@ -1,0 +1,76 @@
+body{
+    background-color:lightcyan;
+}
+
+h1 {
+    font-family: "Copperplate Gothic Light", Times, serif;
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+a{
+
+ }
+
+h2{
+    font-family: "Copperplate Gothic Light", Times, serif;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-family: "Copperplate Gothic Light", Times, serif;
+}
+
+
+ul {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid;
+    td {
+        height: 50px;
+        vertical-align: bottom;
+    }
+}
+
+#Home {
+    background-color: aliceblue;
+}
+
+h2 {
+    font-family: "Copperplate Gothic Light", Times, serif;
+}
+
+    
+
+#photo-header{
+    text-align:left;
+}
+#photo {
+    display: block;;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+#photo2 {
+    display: block;;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+img {
+    border-radius: 40%;
+}
+
+#content{
+    text-align:center;
+}
+
+#project{
+    text-align:center;
+}
+

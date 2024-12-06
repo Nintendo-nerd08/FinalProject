@@ -9,15 +9,25 @@ h1 {
 }
 
 #Home {
-    background-color: aliceblue;
+    background-color: lightskyblue;
+}
+
+div{
+
 }
 
 h2 {
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 p {
     font-family: "copperplate", "papyrus", Fantasy, serif;
+
+}
+
+a{
+    text-align: center;
 
 }
 #content{
@@ -36,9 +46,10 @@ p {
     width: 20%;
 }
 
+
 #photo2 {
-    display: block;;
-    margin-left: 20%;
+    display: block;
+    margin-left: auto;
     margin-right: auto;
     width: 20%;
 }
@@ -54,6 +65,10 @@ p {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+#content{
+    text-align:center;
 }
 
 
